@@ -2,7 +2,7 @@
 First homework assignment
 
 This repository is created as part of a project.
-
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -51,3 +51,4 @@ This repository is created as part of a project.
 		<a href="index.html">Refresh the page</a>
 	</body>
 </html>
+```
